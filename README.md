@@ -1,4 +1,5 @@
 # write good [![Build Status](https://travis-ci.org/btford/write-good.svg?branch=master)](https://travis-ci.org/btford/write-good)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwrite-good.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwrite-good?ref=badge_shield)
 
 Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.
 
@@ -141,3 +142,6 @@ These apps have similar functionality that you may find useful.
 
 ## License
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwrite-good.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwrite-good?ref=badge_large)
